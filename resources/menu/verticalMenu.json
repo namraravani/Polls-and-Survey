@@ -1,0 +1,52 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-home"
+    },
+    {
+      "url": "/users",
+      "name": "User",
+      "icon": "menu-icon tf-icons ti ti-user",
+      "slug": "users",
+      "target": ""
+    },
+
+    {
+      "url": "/poll",
+      "icon": "menu-icon tf-icons fas fa-square-poll-vertical",
+      "name": "Polls and survey",
+      "slug": ""
+    },
+    {
+      "url": "pages/misc-error",
+      "name": "Error",
+      "icon": "menu-icon tf-icons ti ti-alert-triangle",
+      "slug": "pages-misc-error",
+      "target": "_blank"
+    },
+    {
+      "url": "/roles",
+      "name": "Roles",
+      "icon": "menu-icon tf-icons ti ti-address-book",
+      "slug": "Role",
+      "target": ""
+    },
+    {
+      "url": "auth/login-basic",
+      "name": "Login",
+      "icon": "menu-icon tf-icons ti ti-login",
+      "slug": "auth-login-basic",
+      "target": "_blank"
+    },
+    {
+      "url": "auth/register-basic",
+      "name": "Register",
+      "icon": "menu-icon tf-icons ti ti-user",
+      "slug": "auth-register-basic",
+      "target": "_blank"
+    }
+  ]
+}
